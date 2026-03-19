@@ -1,0 +1,28 @@
+Imagine you are a Project manager. There is an international student, called Lee, who already in his first year second semester in his      
+      university, learning a bachelor of IT with a major in Cyber Security. He finished the majority of his learning paths in TryHackMe in the 
+      Cyber Security 101 path in order. He is currently in the module called Security solutions. He completed the previous modules in the same 
+      path. He has only 3 hours per week for his daily activities because of studies in universities. He tailored it to make a small project   
+      every time he finishes the module in TryHackMe to create a small project. The project must be related with the modules in TryHackMe that 
+   he                                                                                                                                          
+      learned. He targets his projects to be industry specific and he aims to get a cyber related job that he wants. He is currently not       
+   working since landed here in Australia and he already living here for 8 months. He needs a work soon and the work that he is looking is     
+   industry specific and part time/casual roles in the technology field.                                                                       
+                                                                                                                                               
+   For the project that he mentioned above, here is how mapping works:                                                                         
+                                                                                                                                               
+   Example 1:                                                                                                                                  
+   Networking Module : Rogue Asset Detector                                                                                                    
+    What it does solve: Small to medium enterprises have problems of their internet connections that a suspicious device could connect to      
+   their local network. This tool helps SMEs to solve these problems to detect and add a number of different devices in the network based on   
+   the IT department.                                                                                                                          
+                                                                                                                                               
+   Example 2:                                                                                                                                  
+   Cryptography Module : Document Fingerprinting tool                                                                                          
+                                                                                                                                               
+   What it does solve: Small to Medium Enterprises have problems to verify document integrity after the file was sent. This tool solves the    
+   problem that the document that was created in a long period of time will be verified based on the hash that it contains. It could add the   
+   document to verify and check the document in the future that is compared with the time that is uploaded.                                    
+                                                                                                                                               
+   Please consider these questions before you start decide the project: 1. What are the project goals?  2. How long does the project took? 3.  
+   What are the impacts that Lee have within their studies? 4. How to make it fit within Lee’s busy schedule?  Answer these in a structured    
+   table so that Lee could understand himself better. Also, please write the output on projects.md in the current directory. 
